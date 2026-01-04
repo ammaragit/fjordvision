@@ -1,0 +1,9 @@
+path: data
+train: images/train
+val: images/val
+
+names:
+  0: Zostera_marina
+  1: Fucus_vesiculosus
+  2: Rock
+  3: Pipe
